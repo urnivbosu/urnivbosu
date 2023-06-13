@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/urniv bosu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="urniv bosu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/urniv-bosu-6b4a79236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="urniv bosu" height="30" width="40" /></a>
 <a href="https://instagram.com/urniv_bosu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="urniv_bosu" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/ronyboxxu7/practicehttps://practice.geeksforgeeks.org/problem-of-the-day?source=google&medium=cpc&device=c&keyword=gfg%20potd&matchtype=b&campaignid=19775103737&adgroup=148295531482&gad=1&gclid=cjwkcajwhjukbhbpeiwaniicnenvwtfrzzzcontg9kbwybnq69ey7y4ahaebmpulnztgezbxxbuc5roctkwqavd_bwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/ronyboxxu7/practicehttps://practice.geeksforgeeks.org/problem-of-the-day?source=google&medium=cpc&device=c&keyword=gfg%20potd&matchtype=b&campaignid=19775103737&adgroup=148295531482&gad=1&gclid=cjwkcajwhjukbhbpeiwaniicnenvwtfrzzzcontg9kbwybnq69ey7y4ahaebmpulnztgezbxxbuc5roctkwqavd_bwe" height="30" width="40" /></a>
 </p>
