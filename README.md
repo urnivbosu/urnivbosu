@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urnivbosu&label=Profile%20views&color=0e75b6&style=flat" alt="urnivbosu" /> </p>
 
-- 🌱 I’m currently learning **Java Script**
+- 🌱 I’m currently learning **REACT JS, MONGO DB, CLOUD COMPUTING**
 
 - ⚡ Fun fact **Why do programmers prefer dark mode? Because light attracts bugs!**
 
